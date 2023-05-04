@@ -76,12 +76,3 @@
         right: 100%
     }
 }
-
-@keyframes animation-coin {
-    from {
-        right: -100px;
-    }
-    to {
-        right: 100%;
-    }
-}
